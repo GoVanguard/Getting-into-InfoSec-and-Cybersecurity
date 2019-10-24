@@ -2,7 +2,7 @@
 A shorter, less intimidating list of infosec resources helpful for anyone trying to learn about information security.
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 COURSES:
 
   CompTIA Network+ Certification Video Course By PowerCert Animated Videos - (https://www.youtube.com/watch?v=vrh0epPAC5w)
@@ -14,7 +14,7 @@ COURSES:
   Complete Ethical Hacking Course By HackerSploit - Part1 of 126 - (https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 INFORMATIONAL YOUTUBE CHANNELS:
 
   Youtube Channel Of Informative Infosec Concepts And Guides By Motasem Hamdan - (https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos)
@@ -30,7 +30,7 @@ INFORMATIONAL YOUTUBE CHANNELS:
   Youtube Channel Of Informative Infosec Concepts And Guides By Hak5 - (https://www.youtube.com/user/Hak5Darren/featured)
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 A COUPLE OF WEB BASED TOOLS TO TINKER WITH:
 
   Google Hacking by Pentest-Tools.com (https://pentest-tools.com/information-gathering/google-hacking#)
@@ -38,7 +38,7 @@ A COUPLE OF WEB BASED TOOLS TO TINKER WITH:
   Lookup Any Device Connected to The Internet (https://www.shodan.io/)
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 HELP WITH CODING:
 
   Batch Tutorials By John Hammond - (https://www.youtube.com/playlist?list=PL69BE3BF7D0BB69C4)
@@ -50,7 +50,7 @@ HELP WITH CODING:
   Top 10 Ways to Teach Yourself to Code (https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 WEBHACKING EXERCISES AND GUIDES:
 
   Webpage hacking CTF Exercises And Educational Video Guides (https://www.hacker101.com/)
@@ -62,7 +62,7 @@ WEBHACKING EXERCISES AND GUIDES:
   XSS Exercises (https://xss-game.appspot.com/)
   
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 PENTESTING REFERENCES:
 
   Awesome Pentest Guide (https://github.com/enaqx/awesome-pentest)
@@ -72,7 +72,7 @@ PENTESTING REFERENCES:
   SecTools.Org Top Network Security Tools (https://crazzycop.blogspot.com/2017/03/parrot-os-bash-command-line.html)
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 HELP WITH LINUX:
 
   Chapter 1. GNU/Linux tutorials (https://www.debian.org/doc/manuals/debian-reference/ch01.en.html#_console_basics)
@@ -80,7 +80,7 @@ HELP WITH LINUX:
   The Debian Administrator's Handbook (https://www.debian.org/doc/manuals/debian-handbook/)
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 HACKING CHEATSHEETS:
 
   Nmap Cheat Sheet (https://highon.coffee/blog/nmap-cheat-sheet/)
