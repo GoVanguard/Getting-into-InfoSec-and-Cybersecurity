@@ -78,5 +78,5 @@ Hacking Cheatsheets
   Detailed GoVanguard Inforsec Resources
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-  - Pentesting tools - https://github.com/GoVanguard/list-pentest-tools
-  - GoVanguard InfoSec Encyclopedia - https://github.com/GoVanguard/list-infosec-encyclopedia
+  - Full List of Pentesting tools - https://github.com/GoVanguard/list-pentest-tools
+  - Full GoVanguard InfoSec Encyclopedia - https://github.com/GoVanguard/list-infosec-encyclopedia
