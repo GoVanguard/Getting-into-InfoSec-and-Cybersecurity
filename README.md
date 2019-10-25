@@ -72,7 +72,8 @@ Hacking Cheatsheets
   - Nmap Cheat Sheet - https://highon.coffee/blog/nmap-cheat-sheet/
   - Local Linux Enumeration & Privilege Escalation Cheatsheet - https://www.rebootuser.com
   - Pentest Recon And Enu Cheatsheet - https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/#recon-and-enumeration
-  - Metasploit Payloads Cheatsheet - https://netsec.ws/?p=331
+  - Metasploit Payload Cheatsheet - https://netsec.ws/?p=331
+  - XSS Payload Cheatsheet - https://github.com/pgaijin66/XSS-Payloads/blob/master/payload.txt
   
   Detailed GoVanguard Inforsec Resources
 ----------------------------------------------------------------------------------------------------------------------------------------
