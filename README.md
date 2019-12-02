@@ -1,5 +1,5 @@
-# Getting-into-Infosec
-A shorter, less intimidating list of infosec resources helpful for anyone trying to learn about information security.
+# Getting-into-InfoSec-and-Cybersecurity
+A concentrated list of InfoSec resources helpful for anyone trying to learn about information security and cybersecurity.
 
 
 Cybersecurity: What it is and why it matters
