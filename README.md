@@ -22,12 +22,12 @@ Courses
 Informative Youtube Channels
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-  * [Youtube Channel Of Informative Infosec Concepts And Guides By Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos)
-  * [Youtube Channel Of Informative Infosec Concepts And Guides By Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos)
-  * [Youtube Channel Of Informative Infosec Concepts And Guides By Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
-  * [Youtube Channel Of Informative Infosec Concepts And Guides By Computerphile](https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2)
-  * [Youtube Channel Of Informative Infosec Concepts And Guides By thenewboston](https://www.youtube.com/user/thenewboston/playlists)
-  * [Youtube Channel Of Informative Infosec Concepts And Guides By Hak5](https://www.youtube.com/user/Hak5Darren/featured)
+  * [Infosec Concepts And Guides By Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos)
+  * [Infosec Concepts And Guides By Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos)
+  * [Infosec Concepts And Guides By Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+  * [Infosec Concepts And Guides By Computerphile](https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2)
+  * [Infosec Concepts And Guides By thenewboston](https://www.youtube.com/user/thenewboston/playlists)
+  * [Infosec Concepts And Guides By Hak5](https://www.youtube.com/user/Hak5Darren/featured)
 
 A Couple Web-Based Tools To Tinker With
 ---------------------------------------------------------------------------------------------------------------------------------------
