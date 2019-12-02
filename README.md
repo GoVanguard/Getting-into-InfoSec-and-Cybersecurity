@@ -1,4 +1,4 @@
-# Getting-into-InfoSec-and-Cybersecurity
+# Getting into InfoSec and Cybersecurity
 A concentrated list of InfoSec resources helpful for anyone trying to learn about information security and cybersecurity.
 
 
