@@ -16,7 +16,7 @@ Courses
 
   * [CompTIA Network+ Certification Video Course By PowerCert Animated Videos](https://www.youtube.com/watch?v=vrh0epPAC5w)
   * [CompTIA Security+ SY0-501 Training Course By Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
-  * [Complete Ethical Hacking Course by Joseph Delgadillo(8 hour course](https://www.youtube.com/watch?v=fDeLtKUxTmM)
+  * [Complete Ethical Hacking Course by Joseph Delgadillo 8 hour course](https://www.youtube.com/watch?v=fDeLtKUxTmM)
   * [Complete Ethical Hacking Course By HackerSploit Part1 of 126](https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
 
 Informative Youtube Channels
