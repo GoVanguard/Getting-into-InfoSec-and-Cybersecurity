@@ -1,5 +1,6 @@
 # Getting into InfoSec and Cybersecurity
 A concentrated list of InfoSec resources helpful for anyone trying to learn about information security and cybersecurity.
+Links for GoVanguards full list of tools and resources is located at the bottom of the page.
 
 
 Cybersecurity: What it is and why it matters
@@ -10,6 +11,9 @@ Cybersecurity: What it is and why it matters
   * [What is Cyber Security?](https://www.youtube.com/watch?v=ooJSgsB5fIE)
   * [Internet of Things: The Relationship Between IoT and Security](https://www.youtube.com/watch?v=LcoEe0LvaBo)
   * [Internet of Things: IoT Research Methodology](https://www.youtube.com/watch?v=iQCaGxnY4LM)
+  * [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
+  * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
+  * [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
 
 Courses
 ----------------------------------------------------------------------------------------------------------------------------------------
