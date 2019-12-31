@@ -35,12 +35,6 @@ Informative Infosec Concepts And Guide Channels On Youtube
   * [Schuyler Towne channel](https://www.youtube.com/user/SchuylerTowne/) - Lockpicking videos and security talks.
   * [bosnianbill](https://www.youtube.com/user/bosnianbill) - lockpicking videos.
 
-A Couple Web-Based Tools To Tinker With
----------------------------------------------------------------------------------------------------------------------------------------
-
-  * [Google Hacking by Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking#)
-  * [Lookup Any Device Connected to The Internet](https://www.shodan.io/)
-
 Help With Coding
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -73,7 +67,6 @@ Hacking References And Cheatsheets
   * [Metasploit Payload Cheatsheet](https://netsec.ws/?p=331)
   * [Multiple Cheatsheets By Andrewjkerr](https://github.com/andrewjkerr/security-cheatsheets)
 
-  
 Training And Practice Exercises
 ----------------------------------------------------------------------------------------------------------------------------------------
  
@@ -104,6 +97,12 @@ Pentesting References
   * [Awesome Pentest Guide](https://github.com/enaqx/awesome-pentest)
   * [PTES Technical Guidelines(The Penetration Testing Execution](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
   * [SecTools.Org Top Network Security Tools](https://crazzycop.blogspot.com/2017/03/parrot-os-bash-command-line.html)
+
+Fun Web-Based Tools To Tinker With
+---------------------------------------------------------------------------------------------------------------------------------------
+
+  * [Google Hacking by Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking#)
+  * [Lookup Any Device Connected to The Internet](https://www.shodan.io/)
 
 Help With Linux
 ----------------------------------------------------------------------------------------------------------------------------------------
