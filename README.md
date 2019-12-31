@@ -75,26 +75,23 @@ Hacking References And Cheatsheets
 Training And Practice Exercises
 ----------------------------------------------------------------------------------------------------------------------------------------
  
-  * [OWASP security knowledge framework](https://owasp-skf.gitbook.io/asvs-write-ups/)
-  * [Hacker101 CTF](https://ctf.hacker101.com/)
-  * [Webpage hacking Exercises](https://www.bugbountynotes.com/training)
-  * [XSS Exercises](https://xss-game.appspot.com/)
-  * [Rapid7 Metsploitable](https://information.rapid7.com/download-metasploitable-2017.html?LS=1631875&CS=web)
-  * [OWASP Hackademic Challenges](https://code.google.com/archive/p/owasp-hackademic-challenges/downloads)
-  * [Mutillidae](https://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
-  * [OWASP WebGoat](https://www2.owasp.org/www-project-webgoat/)
-  * [Gruyere](https://google-gruyere.appspot.com/)
+  * [OWASP security knowledge framework](https://owasp-skf.gitbook.io/asvs-write-ups/) - OWASP security knowledge framework labs exercises complete with write-ups.
+  * [Hacker101 CTF](https://ctf.hacker101.com/) - Webapp CTF style exirsises.
+  * [XSS Exercises](https://xss-game.appspot.com/) - Webapp Cross-site scripting (XSS) bug hunting exircises.
+  * [Rapid7 Metsploitable](https://information.rapid7.com/download-metasploitable-2017.html?LS=1631875&CS=web) - Metasploitable is essentially a penetration testing lab in a box, available as a VMware virtual machine (VMX).
+  * [Mutillidae](https://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) - Mutillidae is a free, open source web application provided to allow you to hack a web application. Can be installed on Linux, Windows XP, Windows 7 and windows 10 using XAMMP.
+  * [OWASP WebGoat](https://www2.owasp.org/www-project-webgoat/) - WebGoat is an insecure application that allows the testing of vulnerabilities commonly found in Java-based applications that use common and popular open source components.
+  * [Gruyere](https://google-gruyere.appspot.com/) - Gruyere is a web application that has multiple security bugs ranging from cross-site scripting and cross-site request forgery, to information disclosure, denial of service, and remote code execution.
   * [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) - Purposely vulnerable PHP/MySQL web application.
   * [OWASP Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS/) - Vulnerable web application which works on web sockets for client-server communication.
   * [OWASP NodeGoat](https://github.com/OWASP/NodeGoat/) - Includes Node.js web applications for learning the OWASP top 10.
   * [OWASP SecurityShepard](https://github.com/OWASP/SecurityShepherd/) - Web and mobile application security training platform.
   * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop/) - JavaScript based intentionally insecure web application.
-  * [CPTE Courseware Kit](https://mile2.com/mile2-online-estore/courseware-kits/c-pte-certified-penetration-testing-engineer-courseware-kit-shop.html) - Official training kit for CPTE exam.
+  * [CPTE Courseware Kit](https://mile2.com/mile2-online-estore/courseware-kits/c-pte-certified-penetration-testing-engineer-courseware-kit-shop.html) - Paid Official training kit for CPTE exam.
   * [OSCP-like Vulnhub VMs](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms) - Intentionally vulnerable VMs resembling OSCP.
   * [Over the Wire: Natas](http://overthewire.org/wargames/natas/) - Web application challenges.
-  * [XSS-game](https://xss-game.appspot.com/) - Cross-site Scripting challenges.
   * [Hack the Box](https://www.hackthebox.eu/) - Online pentesting labs with Windows VMs.
-  * [Hack This Site](https://www.hackthissite.org/) - Learn about web application security by hacking this website.
+  * [Hack This Site](https://www.hackthissite.org/) - Web application security exircises.
   * [RopeyTasks](https://github.com/continuumsecurity/RopeyTasks/) - Simple deliberately vulnerable web application.
   * [WebGoat](https://github.com/WebGoat/WebGoat/) - Intentionally insecure web application maintained by OWASP.
   * [Railsgoat](https://github.com/OWASP/railsgoat) - A vulnerable version of Rails that follows the OWASP Top 10.
