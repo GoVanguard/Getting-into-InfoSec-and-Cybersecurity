@@ -78,8 +78,8 @@ Training And Practice Exercises
 ----------------------------------------------------------------------------------------------------------------------------------------
  
   * [OWASP security knowledge framework](https://owasp-skf.gitbook.io/asvs-write-ups/) - OWASP security knowledge framework labs exercises complete with write-ups.
-  * [Hacker101 CTF](https://ctf.hacker101.com/) - Webapp CTF style exirsises.
-  * [XSS Exercises](https://xss-game.appspot.com/) - Webapp Cross-site scripting (XSS) bug hunting exircises.
+  * [Hacker101 CTF](https://ctf.hacker101.com/) - Webapp CTF style exercises.
+  * [XSS Exercises](https://xss-game.appspot.com/) - Webapp Cross-site scripting (XSS) bug hunting exercises.
   * [Rapid7 Metsploitable](https://information.rapid7.com/download-metasploitable-2017.html?LS=1631875&CS=web) - Metasploitable is essentially a penetration testing lab in a box, available as a VMware virtual machine (VMX).
   * [Mutillidae](https://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) - Mutillidae is a free, open source web application provided to allow you to hack a web application. Can be installed on Linux, Windows XP, Windows 7 and windows 10 using XAMMP.
   * [OWASP WebGoat](https://www2.owasp.org/www-project-webgoat/) - WebGoat is an insecure application that allows the testing of vulnerabilities commonly found in Java-based applications that use common and popular open source components.
@@ -93,7 +93,7 @@ Training And Practice Exercises
   * [OSCP-like Vulnhub VMs](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms) - Intentionally vulnerable VMs resembling OSCP.
   * [Over the Wire: Natas](http://overthewire.org/wargames/natas/) - Web application challenges.
   * [Hack the Box](https://www.hackthebox.eu/) - Online pentesting labs with Windows VMs.
-  * [Hack This Site](https://www.hackthissite.org/) - Web application security exircises.
+  * [Hack This Site](https://www.hackthissite.org/) - Web application security exercises.
   * [RopeyTasks](https://github.com/continuumsecurity/RopeyTasks/) - Simple deliberately vulnerable web application.
   * [WebGoat](https://github.com/WebGoat/WebGoat/) - Intentionally insecure web application maintained by OWASP.
   * [Railsgoat](https://github.com/OWASP/railsgoat) - A vulnerable version of Rails that follows the OWASP Top 10.
