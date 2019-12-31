@@ -45,12 +45,12 @@ Help With Coding
 
 Webhacking Guides
 ----------------------------------------------------------------------------------------------------------------------------------------
-  
+
+  * [OWASP security knowledge framework](https://owasp-skf.gitbook.io/asvs-write-ups/)
   * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
   * [Webpage hacking CTF Exercises And Educational Video Guides](https://www.hacker101.com/)
   * [Hacker101 Video Walkthroughs By Master Ward](https://www.youtube.com/playlist?list=PLf1HS8uYJ17Kiu26FgMo-vSxXCgGG-0cx)
   * [Webpage hacking Exercises](https://www.bugbountynotes.com/training)
-  * [OWASP security knowledge framework](https://owasp-skf.gitbook.io/asvs-write-ups/)
   
 Hacking References And Cheatsheets
 ----------------------------------------------------------------------------------------------------------------------------------------
