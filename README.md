@@ -95,7 +95,7 @@ Pentesting References
 ----------------------------------------------------------------------------------------------------------------------------------------
 
   * [Awesome Pentest Guide](https://github.com/enaqx/awesome-pentest)
-  * [PTES Technical Guidelines](The Penetration Testing Execution](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
+  * [PTES Penetration Testing Execution Technical Guidelines](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
   * [SecTools.Org Top Network Security Tools](https://crazzycop.blogspot.com/2017/03/parrot-os-bash-command-line.html)
 
 Fun Web-Based Tools To Tinker With
