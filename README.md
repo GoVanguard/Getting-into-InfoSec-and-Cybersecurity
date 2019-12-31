@@ -25,13 +25,15 @@ Free Online Courses
 
 Informative Infosec Concepts And Guide Channels On Youtube
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-  * [Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos)
-  * [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos)
-  * [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
-  * [Computerphile](https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2)
-  * [Guides By thenewboston](https://www.youtube.com/user/thenewboston/playlists)
-  * [Hak5](https://www.youtube.com/user/Hak5Darren/featured)
+  
+  * [Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos) - Hacking guides.
+  * [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos) - Hacking guides.
+  * [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) - Hacking guides and concepts.
+  * [Computerphile](https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2) - Information security concepts.
+  * [Thenewboston](https://www.youtube.com/user/thenewboston/playlists) - Programming and hacking guides.
+  * [Hak5](https://www.youtube.com/user/Hak5Darren/featured) - Hacking tools, guides and concepts.
+  * [Schuyler Towne channel](https://www.youtube.com/user/SchuylerTowne/) - Lockpicking videos and security talks.
+  * [bosnianbill](https://www.youtube.com/user/bosnianbill) - lockpicking videos.
 
 A Couple Web-Based Tools To Tinker With
 ---------------------------------------------------------------------------------------------------------------------------------------
