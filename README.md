@@ -61,7 +61,6 @@ Webhacking Guides
 Hacking References And Cheatsheets
 ----------------------------------------------------------------------------------------------------------------------------------------
  
-  * [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
   * [XSS Cheat Sheet](https://n0p.net/penguicon/php_app_sec/mirror/xss.html)
   * [XSS Payload Cheatsheet](https://github.com/pgaijin66/XSS-Payloads/blob/master/payload.txt)
   * [LFI Cheat Sheet](https://highon.coffee/blog/lfi-cheat-sheet/)
@@ -72,6 +71,7 @@ Hacking References And Cheatsheets
   * [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com)
   * [Pentest Recon And Enu Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/#recon-and-enumeration)
   * [Metasploit Payload Cheatsheet](https://netsec.ws/?p=331)
+  * [Multiple Cheatsheets By Andrewjkerr](https://github.com/andrewjkerr/security-cheatsheets)
 
   
 Training And Practice Exercises
