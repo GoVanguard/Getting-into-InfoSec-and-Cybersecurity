@@ -115,5 +115,5 @@ Help With Linux
   Detailed GoVanguard Inforsec Resources
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-  * [The Full List of GoVanguard Pentesting Tools](https://github.com/GoVanguard/list-pentest-tools)
+  * [List of Tools Utilized by GoVanguard for Security Testing](https://github.com/GoVanguard/main-security-testing-tools)
   * [The Full GoVanguard InfoSec Encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia)
