@@ -60,7 +60,7 @@ Web Application Hacking Guides
   * [OWASP security knowledge framework](https://owasp-skf.gitbook.io/asvs-write-ups/)
   * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
   * [Webpage hacking CTF Exercises And Educational Video Guides](https://www.hacker101.com/)
-  * [Hacker101 Video Walkthroughs By Master Ward] (https://www.youtube.com/playlist?list=PLf1HS8uYJ17Kiu26FgMo-vSxXCgGG-0cx)
+  * [Hacker101 Video Walkthroughs By Master Ward](https://www.youtube.com/playlist?list=PLf1HS8uYJ17Kiu26FgMo-vSxXCgGG-0cx)
   * [Beginner Web Application Hacking (Full Course)](https://www.youtube.com/watch?v=24fHLWXGS-M)
 
 Hacking References and Cheatsheets
@@ -74,7 +74,7 @@ Hacking References and Cheatsheets
   * [Pentest Recon And Enu Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/#recon-and-enumeration)
   * [Metasploit Payload Cheatsheet](https://netsec.ws/?p=331)
   * [Multiple Cheatsheets By Andrewjkerr](https://github.com/andrewjkerr/security-cheatsheets)
-  * Subnet Cheat Sheet Subnet Cheat Sheet – 24 Subnet Mask, 30, 26, 27, 29, and other IP Address CIDR Network References (freecodecamp.org)
+  * [Subnet Cheat Sheet Subnet Cheat Sheet – 24 Subnet Mask, 30, 26, 27, 29, and other IP Address CIDR Network References](freecodecamp.org)
 
 Hacking Books
 ----------------------------------------------------------------------------------------------------------------------------------------
