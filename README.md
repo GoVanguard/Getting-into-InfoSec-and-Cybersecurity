@@ -20,7 +20,7 @@ Free Online Courses to Get Started
   * [Complete Ethical Hacking Course By HackerSploit Part1 of 126](https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
   * [Cyber Mentor: Ethical Hacking in 12 Hours - Full Course - Learn to Hack!](https://www.youtube.com/watch?v=fNzpcB7ODxQ)
   * [Portswigger WebAcademy](https://portswigger.net/web-security)
-  * [TryHackMe Introductory Learning Path] (https://tryhackme.com/client/GoVanguard/path/join?code=eose6ewyj2l)
+  * [TryHackMe Introductory Learning Path](https://tryhackme.com/client/GoVanguard/path/join?code=eose6ewyj2l)
 
 Informative Cybersecurity YouTube Channels 
 ----------------------------------------------------------------------------------------------------------------------------------------
