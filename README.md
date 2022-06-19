@@ -137,14 +137,14 @@ Cybersecurity News Websites
   * [Cyber News](https://cybernews.com/)
   * [The Register](https://www.theregister.com/)
   * [Cyber News](https://www.reddit.com/r/CyberNews/)
-  * [Dark Reading}(https://www.darkreading.com/)
+  * [Dark Reading](https://www.darkreading.com/)
   * [Daniel Messler Monthly Newsletter](https://danielmiessler.com/newsletter/)
 
   Darknet Diaries Hacking Episodes to Pique Your Interest
 ----------------------------------------------------------------------------------------------------------------------------------------
 
   * [Jeremy From Marketing](https://darknetdiaries.com/episode/36)
-  * [No Parking](https://darknetdiaries.com/episode/36)https://darknetdiaries.com/episode/40)
+  * [No Parking](https://darknetdiaries.com/episode/40)
   * [Mini-Stories:Vol 1](https://darknetdiaries.com/episode/22/)
   * [The Pizza Problem](https://darknetdiaries.com/episode/97/)
 
