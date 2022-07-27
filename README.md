@@ -52,6 +52,11 @@ Help With Linux
   * [The Debian Administrator's Handbook](https://www.debian.org/doc/manuals/debian-handbook)
   * [Kali Linux Revealed](https://www.kali.org/download-kali-linux-revealed-book/)
   * [Parrot OS Doc]( https://www.parrotsec.org/docs)
+  * [How Linux Works: What every superuser should know](https://www.amazon.com/How-Linux-Works-Brian-Ward/dp/1718500408/ref=sr_1_1?crid=1SXHR3ZX8EVSF&keywords=how+linux+works&qid=1658922347&sprefix=how+linux+works%2Caps%2C111&sr=8-1)
+  * [Linux Administration Bootcamp: Go from beginner to advanced](https://www.udemy.com/course/linux-administration-bootcamp/learn)
+  * [Linux Fundamentals Part I](https://tryhackme.com/room/linuxfundamentalspart1)
+  * [Linux Fundamentals Part II](https://tryhackme.com/room/linuxfundamentalspart2)
+  * [Linux Fundamentals Part III](https://tryhackme.com/room/linuxfundamentalspart3) 
 
 Web Application Hacking Guides
 ----------------------------------------------------------------------------------------------------------------------------------------
