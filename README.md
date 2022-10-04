@@ -116,7 +116,8 @@ Hands-on Training and Practice Exercises
   * [Hack This Site](https://www.hackthissite.org/) - Web application security exercises.
   * [RopeyTasks](https://github.com/iriusrisk/RopeyTasks) - Simple deliberately vulnerable web application.
   * [Railsgoat](https://github.com/OWASP/railsgoat) - A vulnerable version of Rails that follows the OWASP Top 10.
-  * [TryHackMe](https://tryhackme.com/)
+  * [TryHackMe](https://tryhackme.com/) - Hands on cybersecurity training platform with free and paid tiers.
+  * [CyberStart](https://cyberstart.com/) - Hands on cybersecurity training platform with free and paid tiers. Like TryHackMe but a bit more engaging and interactive.
 
 TryHackMe Beginner Paths (Online platform for learning cyber security, using hands-on exercises and labs)
 ----------------------------------------------------------------------------------------------------------------------------------------
