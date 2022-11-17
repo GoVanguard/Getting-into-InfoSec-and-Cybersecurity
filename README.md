@@ -87,7 +87,7 @@ Hacking Books
   * [Violent Python]( https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=sr_1_1?crid=2COVPNF276816)
   * [The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws]( https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=sr_1_1?crid=7OOX2YCQSL1P)
   * [The Hacker Playbook 3: Practical Guide to Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=sr_1_1?crid=3L6TXCLRK92HM)
-
+  * [How to Hack Like a Legend] (https://www.amazon.com/Hack-Like-Legend-Sparc-Flow-ebook/dp/B08YJYR4N7/ref=sr_1_1?crid=2GPFM4XLCVLBG&keywords=how+to+hack+like+a+legend&qid=1668654410&s=books&sprefix=how+to+hack+like+a+legend%2Cstripbooks%2C91&sr=1-1)
 Pentesting References
 ----------------------------------------------------------------------------------------------------------------------------------------
 
